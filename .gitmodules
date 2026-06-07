@@ -1,0 +1,6 @@
+[submodule "UnitreeSimEnv"]
+	path = UnitreeSimEnv
+	url = https://github.com/superdev11271/UnitreeSimEnv.git
+[submodule "UnitreeSimCtrl"]
+	path = UnitreeSimCtrl
+	url = https://github.com/superdev11271/UnitreeSimCtrl.git
