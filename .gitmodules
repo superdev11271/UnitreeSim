@@ -4,3 +4,6 @@
 [submodule "UnitreeSimCtrl"]
 	path = UnitreeSimCtrl
 	url = https://github.com/superdev11271/UnitreeSimCtrl.git
+[submodule "SdkEventBridge"]
+	path = SdkEventBridge
+	url = https://github.com/superdev11271/SdkEventBridge.git
