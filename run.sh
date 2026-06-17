@@ -88,6 +88,10 @@ main() {
             ;;
     esac
 
+    if [[ -x "${ROOT_DIR}/clean_env.sh" ]]; then
+        bash "${ROOT_DIR}/clean_env.sh"
+    fi
+
     start_submodule UnitreeSimEnv
     sleep "${GAZEBO_STARTUP_SEC}"
 
